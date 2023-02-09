@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
+  <img src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" width="1000"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/ana-lourenco-60210a262/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,7 +8,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=AnaLourenco3&style=flat-square&color=yellow" alt=""/>
   
-<h1>Hi! I am Ana Lourenco 👋🏻</h1>
+<h1>Hi! I am Ana Lourenço 👋🏻</h1>
 </div>
 
 
