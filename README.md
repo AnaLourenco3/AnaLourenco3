@@ -11,26 +11,30 @@
 <h1>Hi! I am Ana Lourenço 👋🏻</h1>
 </div>
 
-
+</br>
 
 ### :woman_technologist: About Me :
 
-- :computer: I am a passionate Full Stack Web Developer.
+- :computer: I am a passionate Frontend Developer.
 
-- :portugal: I am from Portugal.
+- I am from Portugal.
 
-- :netherlands: I live in Amsterdam.
+- I live in Amsterdam.
 
-- :mortar_board: I have just graduated from <a href="https://codaisseur.com/courses/academy/" alt="Codaisseur Full Stack JavaScript Academy">Codaisseur Full Stack JavaScript Academy</a>.
+- I have just graduated from <a href="https://codaisseur.com/courses/academy/" alt="Codaisseur Full Stack JavaScript Academy">Codaisseur Full Stack JavaScript Academy</a>.
 
-- :stuck_out_tongue: I speak 🇬🇧 🇳🇱 🇵🇹.
+- I speak 🇬🇧 🇳🇱 🇵🇹.
 
 - :zap: In my free time I enjoy: yoga :lotus_position_woman: | travelling :airplane: | cooking 👩‍🍳 
 
----
 
-<div id="header" align="center">
 
+<div >
+
+  
+  </br>
+
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -53,11 +57,3 @@
 <img src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" title="Git" alt="Git" width="35" height="35"/>&nbsp;
 </div>
 
----
-<div id="header" align="center">
-  
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnaLourenco3&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLourenco3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
